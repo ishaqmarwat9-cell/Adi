@@ -1,0 +1,6 @@
+{
+  "name": "Judicial Administration & District Institutional Assessment Dashboard — Peshawar High Court",
+  "description": "Evidence-based institutional assessment and judicial administration briefing dashboard for the Hon’ble Chief Justice Mr. Justice S. M. Attique Shah, presented by Ms. Phool Bibi, Additional MIT-II.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
